@@ -1,4 +1,4 @@
 # hello_world
-first repo
+first try
 
 Hi humans !
